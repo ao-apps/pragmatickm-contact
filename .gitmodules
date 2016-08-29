@@ -1,0 +1,15 @@
+[submodule "pragmatickm-contact-model"]
+	path = pragmatickm-contact-model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-model
+[submodule "pragmatickm-contact-servlet"]
+	path = pragmatickm-contact-servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-servlet
+[submodule "pragmatickm-contact-style"]
+	path = pragmatickm-contact-style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-style
+[submodule "pragmatickm-contact-taglib"]
+	path = pragmatickm-contact-taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-taglib
+[submodule "pragmatickm-contact-view"]
+	path = pragmatickm-contact-view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-view
