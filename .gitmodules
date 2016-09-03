@@ -13,3 +13,6 @@
 [submodule "pragmatickm-contact-view"]
 	path = pragmatickm-contact-view
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-view
+[submodule "pragmatickm-contact-all"]
+	path = pragmatickm-contact-all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all

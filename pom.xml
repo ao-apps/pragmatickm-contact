@@ -56,6 +56,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</repositories>
 
 	<modules>
+		<module>pragmatickm-contact-all</module>
 		<module>pragmatickm-contact-model</module>
 		<module>pragmatickm-contact-servlet</module>
 		<module>pragmatickm-contact-style</module>
