@@ -70,11 +70,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</repositories>
 
 	<modules>
-		<module>pragmatickm-contact-all</module>
-		<module>pragmatickm-contact-model</module>
-		<module>pragmatickm-contact-servlet</module>
-		<module>pragmatickm-contact-style</module>
-		<module>pragmatickm-contact-taglib</module>
-		<module>pragmatickm-contact-view</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>view</module>
 	</modules>
 </project>

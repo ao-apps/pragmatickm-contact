@@ -16,3 +16,21 @@
 [submodule "pragmatickm-contact-all"]
 	path = pragmatickm-contact-all
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all
+[submodule "all"]
+	path = all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all
+[submodule "model"]
+	path = model
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-model
+[submodule "servlet"]
+	path = servlet
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-servlet
+[submodule "style"]
+	path = style
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-style
+[submodule "taglib"]
+	path = taglib
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-taglib
+[submodule "view"]
+	path = view
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-view
