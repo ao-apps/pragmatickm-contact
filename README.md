@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Contact](https://pragmatickm.com/contact/)
-Parent POM for contacts nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for contacts nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/)
