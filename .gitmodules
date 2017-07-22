@@ -1,36 +1,18 @@
-[submodule "pragmatickm-contact-model"]
-	path = pragmatickm-contact-model
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-model
-[submodule "pragmatickm-contact-servlet"]
-	path = pragmatickm-contact-servlet
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-servlet
-[submodule "pragmatickm-contact-style"]
-	path = pragmatickm-contact-style
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-style
-[submodule "pragmatickm-contact-taglib"]
-	path = pragmatickm-contact-taglib
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-taglib
-[submodule "pragmatickm-contact-view"]
-	path = pragmatickm-contact-view
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-view
-[submodule "pragmatickm-contact-all"]
-	path = pragmatickm-contact-all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all
 [submodule "all"]
 	path = all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-all
+	url = git@github.com:aoindustries/pragmatickm-contact-all.git
 [submodule "model"]
 	path = model
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-model
+	url = git@github.com:aoindustries/pragmatickm-contact-model.git
 [submodule "servlet"]
 	path = servlet
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-servlet
+	url = git@github.com:aoindustries/pragmatickm-contact-servlet.git
 [submodule "style"]
 	path = style
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-style
+	url = git@github.com:aoindustries/pragmatickm-contact-style.git
 [submodule "taglib"]
 	path = taglib
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-taglib
+	url = git@github.com:aoindustries/pragmatickm-contact-taglib.git
 [submodule "view"]
 	path = view
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact-view
+	url = git@github.com:aoindustries/pragmatickm-contact-view.git
