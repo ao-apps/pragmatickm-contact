@@ -4,8 +4,8 @@ Aggregator POM for contacts nested within [SemanticCMS](https://semanticcms.com/
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/)
 * [Changelog](https://pragmatickm.com/contact/changelog)
-* [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
-* [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact)
+* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-contact%22)
+* [GitHub](https://github.com/aoindustries/pragmatickm-contact)
 
 ## Modules
 * [PragmaticKM Contact All](https://pragmatickm.com/contact/all/)
