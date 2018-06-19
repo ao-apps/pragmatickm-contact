@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Contact](https://pragmatickm.com/contact/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Contact](https://github.com/aoindustries/pragmatickm-contact)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for contacts nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for contacts nested within [SemanticCMS](https://github.com/aoindustries/semanticcms) pages and elements.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/)
@@ -27,13 +27,13 @@ Aggregator POM for contacts nested within [SemanticCMS](https://semanticcms.com/
 * [GitHub](https://github.com/aoindustries/pragmatickm-contact)
 
 ## Modules
-* [PragmaticKM Contact All](https://pragmatickm.com/contact/all/)
-* [PragmaticKM Contact Model](https://pragmatickm.com/contact/model/)
-* [PragmaticKM Contact Renderer HTML](https://pragmatickm.com/contact/renderer/html/)
-* [PragmaticKM Contact Servlet](https://pragmatickm.com/contact/servlet/)
-* [PragmaticKM Contact Style](https://pragmatickm.com/contact/style/)
-* [PragmaticKM Contact Taglib](https://pragmatickm.com/contact/taglib/)
-* [PragmaticKM Contact View](https://pragmatickm.com/contact/view/)
+* [PragmaticKM Contact All](https://github.com/aoindustries/pragmatickm-contact-all)
+* [PragmaticKM Contact Model](https://github.com/aoindustries/pragmatickm-contact-model)
+* [PragmaticKM Contact Renderer HTML](https://github.com/aoindustries/pragmatickm-contact-renderer-html)
+* [PragmaticKM Contact Servlet](https://github.com/aoindustries/pragmatickm-contact-servlet)
+* [PragmaticKM Contact Style](https://github.com/aoindustries/pragmatickm-contact-style)
+* [PragmaticKM Contact Taglib](https://github.com/aoindustries/pragmatickm-contact-taglib)
+* [PragmaticKM Contact View](https://github.com/aoindustries/pragmatickm-contact-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
