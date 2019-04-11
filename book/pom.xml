@@ -34,8 +34,7 @@ along with pragmatickm-contact.  If not, see <http://www.gnu.org/licenses />.
 
 	<properties>
 		<!-- These values are copied from the project being documented -->
-		<documented.groupId>com.pragmatickm</documented.groupId>
-		<documented.artifactId>pragmatickm-contact</documented.artifactId>
+		<documented.groupId>com.pragmatickm</documented.groupId><documented.artifactId>pragmatickm-contact</documented.artifactId>
 		<documented.name>PragmaticKM 1 Contact</documented.name>
 		<documented.shortTitle>Contact</documented.shortTitle>
 		<documented.url>https://pragmatickm.com/contact/</documented.url>
