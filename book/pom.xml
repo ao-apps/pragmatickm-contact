@@ -35,7 +35,7 @@ along with pragmatickm-contact.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.groupId>com.pragmatickm</documented.groupId><documented.artifactId>pragmatickm-contact</documented.artifactId>
-		<documented.name>PragmaticKM 1 Contact</documented.name>
+		<documented.name>PragmaticKM Contact</documented.name>
 		<documented.shortTitle>Contact</documented.shortTitle>
 		<documented.url>https://pragmatickm.com/contact/</documented.url>
 		<documented.description>Aggregator POM for contacts nested within SemanticCMS pages and elements.</documented.description>
