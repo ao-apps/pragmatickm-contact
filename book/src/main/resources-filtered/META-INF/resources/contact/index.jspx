@@ -74,5 +74,8 @@ along with pragmatickm-contact.  If not, see <http://www.gnu.org/licenses />.
 				<li><core:link book="/contact/view" page="/index.jspx" /></li>
 			</ul>
 		</section:section>
+		<!-- TODO: Document future ideas.  Way to vote for features?  Use Github issues?
+		vcard support?
+		-->
 	</core:page>
 </jsp:root>
