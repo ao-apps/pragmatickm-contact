@@ -27,6 +27,7 @@ Aggregator POM for contacts nested within [SemanticCMS](https://github.com/aoind
 * [GitHub](https://github.com/aoindustries/pragmatickm-contact)
 
 ## Modules
+* [PragmaticKM Contact BOM](https://github.com/aoindustries/pragmatickm-contact-bom)
 * [PragmaticKM Contact All](https://github.com/aoindustries/pragmatickm-contact-all)
 * [PragmaticKM Contact Model](https://github.com/aoindustries/pragmatickm-contact-model)
 * [PragmaticKM Contact Servlet](https://github.com/aoindustries/pragmatickm-contact-servlet)
