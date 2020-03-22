@@ -1,24 +1,32 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-contact-all.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/pragmatickm-contact-model.git
+	branch = .
 [submodule "servlet"]
 	path = servlet
 	url = git@github.com:aoindustries/pragmatickm-contact-servlet.git
+	branch = .
 [submodule "style"]
 	path = style
 	url = git@github.com:aoindustries/pragmatickm-contact-style.git
+	branch = .
 [submodule "taglib"]
 	path = taglib
 	url = git@github.com:aoindustries/pragmatickm-contact-taglib.git
+	branch = .
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/pragmatickm-contact-view.git
+	branch = .
 [submodule "renderer-html"]
 	path = renderer-html
 	url = git@github.com:aoindustries/pragmatickm-contact-renderer-html.git
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/pragmatickm-contact-bom.git
+	branch = .
