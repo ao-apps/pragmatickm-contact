@@ -23,7 +23,7 @@ Aggregator POM for contacts nested within [SemanticCMS](https://github.com/aoind
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/)
 * [Changelog](https://pragmatickm.com/contact/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-contact%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.pragmatickm/pragmatickm-contact)
 * [GitHub](https://github.com/aoindustries/pragmatickm-contact)
 
 ## Modules
