@@ -8,6 +8,11 @@
 
 [![Build](https://github.com/aoindustries/pragmatickm-contact/workflows/Build/badge.svg?branch=1.x)](https://github.com/aoindustries/pragmatickm-contact/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact&metric=alert_status)](https://sonarcloud.io/dashboard?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact&metric=ncloc)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact&metric=ncloc)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact&metric=Reliability)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact&metric=security_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact&metric=Security)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.pragmatickm%3Apragmatickm-contact&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.pragmatickm%3Apragmatickm-contact&metric=Maintainability)
 
 Aggregator POM for contacts nested within [SemanticCMS](https://github.com/aoindustries/semanticcms) pages and elements.
 
