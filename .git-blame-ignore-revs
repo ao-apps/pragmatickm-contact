@@ -13,3 +13,6 @@
 
 # Performing release.
 73995e5384c25502869610e1fb013cc48cb26d80
+
+# Performed automatic source code clean-up with rewrite-maven-plugin
+62605017d74b40de90f47e9423b46d015801e1f7
