@@ -29,7 +29,7 @@ along with pragmatickm-contact.  If not, see <https://www.gnu.org/licenses/>.
     <relativePath>../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact</artifactId><version>1.7.2-SNAPSHOT</version>
+  <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact</artifactId><version>1.7.2</version>
   <packaging>pom</packaging>
 
   <properties>
@@ -71,7 +71,7 @@ along with pragmatickm-contact.  If not, see <https://www.gnu.org/licenses/>.
     <connection>scm:git:git://github.com/ao-apps/pragmatickm-contact.git</connection>
     <developerConnection>scm:git:git@github.com:ao-apps/pragmatickm-contact.git</developerConnection>
     <url>https://github.com/ao-apps/pragmatickm-contact</url>
-    <tag>HEAD</tag>
+    <tag>pragmatickm-contact-1.7.2</tag>
   </scm>
 
   <issueManagement>
