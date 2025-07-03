@@ -19,7 +19,7 @@ Aggregator POM for contacts nested within [SemanticCMS](https://github.com/ao-ap
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/)
 * [Changelog](https://pragmatickm.com/contact/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-contact)
+* [Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-contact)
 * [GitHub](https://github.com/ao-apps/pragmatickm-contact)
 
 ## Modules
